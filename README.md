@@ -2,17 +2,8 @@
 
 SRS/2.0, [ZhouGuowen][release2]
 
-[![Donation](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_92x26.png)](http://www.ossrs.net/srs.release/donation/index.html)
-[![Paypal](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](http://www.ossrs.net/srs.release/donation/paypal.html)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ossrs/srs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![LinkedIn](http://s.c.lnkd.licdn.com/scds/common/u/img/webpromo/btn_liprofile_blue_80x15.png)](http://cn.linkedin.com/in/winlinvip)
-
 SRS定位是运营级的互联网直播服务器集群，追求更好的概念完整性和最简单实现的代码。<br/>
 SRS is industrial-strength live streaming cluster, for the best conceptual integrity and the simplest implementation. 
-
-Download from github.io: [Centos6-x86_64][centos0], [more...][more0]<br/>
-Download from ossrs.net: [Centos6-x86_64][centos1], [more...][more1]<br/>
-Website for SRS/2.0, read SRS 2.0 [Chinese][srs_CN] or [English][srs_EN].
 
 ## Why SRS?
 
@@ -68,32 +59,6 @@ A big THANK YOU goes to:
 * [FFMPEG][FFMPEG] and [libx264][libx264] group for SRS to use to transcode.
 * Guido van Rossum for creating Python for api-server for SRS.
 
-## Mirrors
-
-Github: [https://github.com/zhao-xiang/srs][srs], the GIT usage([CN][v1_CN_Git], [EN][v1_EN_Git])
-
-```
-git clone https://github.com/zhao-xiang/srs.git
-```
-
-CSDN: [https://code.csdn.net/winlinvip/srs-csdn][csdn], the GIT usage([CN][v1_CN_Git], [EN][v1_EN_Git])
-
-```
-git clone https://code.csdn.net/winlinvip/srs-csdn.git
-```
-
-OSChina: [http://git.oschina.net/winlinvip/srs.oschina][oschina], the GIT usage([CN][v1_CN_Git], [EN][v1_EN_Git])
-
-```
-git clone https://git.oschina.net/winlinvip/srs.oschina.git
-```
-
-Gitlab: [https://gitlab.com/winlinvip/srs-gitlab][gitlab], the GIT usage([CN][v1_CN_Git], [EN][v1_EN_Git])
-
-```
-git clone https://gitlab.com/winlinvip/srs-gitlab.git
-```
-
 ## Usage
 
 <strong>Step 1:</strong> get SRS 
@@ -148,19 +113,6 @@ Please select your language:
 * [SRS 2.0 English][v2_EN_Home]
 * [SRS 2.0 Chinese][v2_CN_Home]
 
-## Donation
-
-Donation:<br/>
-[http://www.ossrs.net/srs.release/donation/index.html][donation1]
-
-Donations:<br/>
-[https://github.com/zhao-xiang/srs/blob/develop/DONATIONS.txt][donations]
-
-## System Requirements
-Supported operating systems and hardware:
-* All Linux , both 32 and 64 bits
-* Apple OSX(Darwin), both 32 and 64bits.
-* All hardware with x86/x86_64/arm/mips cpu.
 
 ## Features
 
